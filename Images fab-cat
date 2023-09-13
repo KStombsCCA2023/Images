@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Webstie</title>
+  </head>
+  <body>
+    <h1>Images look cool</h1>
+    <p>Here is a fabulous cat.</p>
+    <img width= 200 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4o7XkYHBKc89QvEJCMtoZ1_Amo2C7fvQNw&usqp=CAU"alt="Fabulous cat with sparkles">
+  </body>
+</html>
